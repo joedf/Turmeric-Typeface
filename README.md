@@ -1,3 +1,5 @@
+![Sample-1](https://github.com/hollowtf/Turmeric-Typeface/blob/master/Specimen/Images/Sample-1.png)
+
 ## Description
 
 Turmeric is the personal output of me, Tom Holloway. Although it's not the first typeface I have designed, it is the first to be release for public consumption. It is a 3-weight family supporting all western, central, and south eastern european latin alphabets containing old-style numberals and discretionary ligatures. 
